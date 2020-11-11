@@ -21,7 +21,7 @@ A lista será considerada entregue se for enviado por email, o endereço do repo
  
  * Lista 4: PyROOT - 03/10/2020
  
- * Lista 5: RooFit
+ * Lista 5: RooFit - 10/11/2020
  
  * Lista 6: Monte Carlo/Pythia8 - 24/11/2020
  
