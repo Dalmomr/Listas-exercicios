@@ -27,7 +27,3 @@ A lista será considerada entregue se for enviado por email, o endereço do repo
  
  * Lista 7: Comphep - 24/11/2020
  
- *
- 
- *
- 
