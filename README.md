@@ -25,7 +25,7 @@ A lista será considerada entregue se for enviado por email, o endereço do repo
  
  * Lista 6: Monte Carlo/Pythia8 - 24/11/2020
  
- *
+ * Lista 7: Comphep - 24/11/2020
  
  *
  
