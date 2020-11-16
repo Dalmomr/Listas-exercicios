@@ -27,3 +27,8 @@ A lista será considerada entregue se for enviado por email, o endereço do repo
  
  * Lista 7: Comphep - 24/11/2020
  
+ * lista 8: Cinemática das partículas - 01/12/2020
+            Projeto sobre FCC: - 16/12/2020
+ 
+
+ 
