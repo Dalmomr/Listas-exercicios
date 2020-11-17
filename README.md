@@ -25,10 +25,11 @@ A lista será considerada entregue se for enviado por email, o endereço do repo
  
  * Lista 6: Monte Carlo/Pythia8 - 24/11/2020
  
- * Lista 7: Comphep - 24/11/2020
+ * Lista 7: Calchep - 24/11/2020
  
- * lista 8: Cinemática das partículas - 01/12/2020
-            Projeto sobre FCC: - 16/12/2020
+ * Lista 8: Cinemática das partículas - 01/12/2020
+            
+ * Lista 9: Projeto sobre FCC: - 16/12/2020
  
 
  
