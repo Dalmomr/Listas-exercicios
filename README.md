@@ -29,7 +29,7 @@ A lista será considerada entregue se for enviado por email, o endereço do repo
  
  * Lista 8: Cinemática das partículas - 08/12/2020
  
- * Lista 9: Manipulando dados reais com ROOT: 15/12/2020
+ * Lista 9: Manipulando dados reais com ROOT e pyROOT - 15/12/2020
             
  * Lista 10: Projeto sobre FCC - 22/12/2020
  
